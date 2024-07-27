@@ -25,7 +25,7 @@ const items = [
   { name: "donut", image: "donut.png" },
   { name: "packet", image: "packet.png" },
 ];
-
+//comment
 //Initial Time
 let seconds = 0,
   minutes = 0;
